@@ -1,0 +1,12 @@
+streamlit
+mistralai
+langchain
+langchain-mistralai
+langchain-core
+langchain-community
+pillow
+python-dotenv
+beautifulsoup4
+pypdf
+langchain-pinecone
+pinecone-notebooks
